@@ -1,2 +1,7 @@
 Esta a miercoles en clase de EEDD.
+<<<<<<< HEAD
 Estamos comiteando.
+=======
+Ha llegado la delegada. 
+segunda hora
+otra linea
